@@ -3,3 +3,5 @@
 *.log
 *build
 *benchmark
+*googletest
+*.txt
